@@ -1,0 +1,2 @@
+# Business-Performance-Dashboard-Insights-into-Sales-Profit-and-Marketing-Efficiency
+This project involves creating an interactive dashboard to visualize and analyze business performance metrics such as sales, profit, expenses, customer satisfaction, and marketing efficiency. The dataset includes 10,000 records spanning various regions, product categories, and time periods, enabling actionable insights for decision-making.
