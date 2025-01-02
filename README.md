@@ -1,5 +1,7 @@
 # Business Performance Dashboard Project
 
+![Dashboard Screenshot](snap_of_dashboard.png)
+
 ## Project Overview
 This project focuses on developing an interactive dashboard to analyze business performance metrics, enabling data-driven decision-making. The dashboard provides insights into sales, profit, expenses, customer satisfaction, and marketing efficiency, leveraging a dataset with 10,000 records across multiple dimensions.
 
